@@ -3,7 +3,6 @@ layout: layout.liquid
 title: About
 ---
 
-# About the 11ty **Boilerplate**
 <h1>Pictures from my recent trip to the DIA</h1>
 <img class="about" alt="barettes" src="/images/barettes.png" width="800" />
 <img class="about" alt="beads sculpture" src="/images/beads.png" width="800" />
